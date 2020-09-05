@@ -1,0 +1,10 @@
+title: 회로그
+email: your-email@example.com
+description: >-
+  고군분투하는 일상 이야기
+baseurl: "/"
+url: "hoelog.github.io"
+github_username:  hoelog
+theme: minima
+plugins:
+  - jekyll-feed
