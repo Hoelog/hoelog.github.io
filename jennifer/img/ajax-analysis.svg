@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="169px" height="131px" viewBox="0 0 169 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="86.3411852%" cy="11.3417143%" fx="86.3411852%" fy="11.3417143%" r="135.322475%" gradientTransform="translate(0.863412,0.113417),scale(0.699115,1.000000),rotate(129.584668),translate(-0.863412,-0.113417)" id="radialGradient-1">
+            <stop stop-color="#EDF3FD" offset="0%"></stop>
+            <stop stop-color="#DCE8FB" offset="40.8869518%"></stop>
+            <stop stop-color="#AEBDD8" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="30" y="31" width="113" height="79" rx="4"></rect>
+        <linearGradient x1="8.74066648%" y1="50%" x2="196.565755%" y2="47.0431171%" id="linearGradient-4">
+            <stop stop-color="#3864D0" offset="0%"></stop>
+            <stop stop-color="#497EFF" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="86.3411852%" cy="11.3417143%" fx="86.3411852%" fy="11.3417143%" r="120.942554%" gradientTransform="translate(0.863412,0.113417),scale(0.984375,1.000000),rotate(120.422244),translate(-0.863412,-0.113417)" id="radialGradient-5">
+            <stop stop-color="#B2D0FF" offset="0%"></stop>
+            <stop stop-color="#B8CBED" offset="40.8869518%"></stop>
+            <stop stop-color="#7C98CA" offset="100%"></stop>
+        </radialGradient>
+        <path d="M32,0.500031 C49.120832,0.500031 63.000064,14.37912 63.000064,31.5 C63.000064,48.620817 49.120832,62.499969 32,62.499969 C14.879168,62.499969 1,48.620817 1,31.5 C1,14.37912 14.879168,0.500031 32,0.500031 Z" id="path-6"></path>
+    </defs>
+    <g id="WEB/1920x1080" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image" transform="translate(-190.000000, -7098.000000)">
+            <g id="Group-15-Copy-2" transform="translate(190.000000, 7078.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="170" height="170"></rect>
+                <g id="Group-14" transform="translate(0.000000, 20.000000)">
+                    <g id="Group-4">
+                        <rect id="Rectangle-Copy-3" fill="#F8F7FC" x="0" y="0" width="113" height="79" rx="4"></rect>
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Rectangle-Copy-2" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+                        <rect id="Rectangle" fill="url(#linearGradient-4)" mask="url(#mask-3)" x="30" y="31" width="12" height="79"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" opacity="0.384440104" mask="url(#mask-3)" x="42" y="31" width="1" height="79"></rect>
+                    </g>
+                    <g id="chart-copy" transform="translate(51.000000, 43.000000)">
+                        <path d="M78.2072,45.774208 L7.45344,45.774208 C5.2332,45.774208 3.43328,44.763226 3.43328,43.51612 L3.43328,6.48388 C3.43328,5.236774 5.2332,4.225792 7.45344,4.225792 L78.2072,4.225792 C80.42736,4.225792 82.22728,5.236774 82.22728,6.48388 L82.22728,43.51612 C82.22728,44.755792 80.44872,45.762154 78.2072,45.774208 Z" id="base" fill="#7E9ACA" opacity="0.240141369"></path>
+                        <path d="M75.2072,41.774208 L4.45344,41.774208 C2.2332,41.774208 0.43328,40.763226 0.43328,39.51612 L0.43328,2.48388 C0.43328,1.236774 2.2332,0.225792 4.45344,0.225792 L75.2072,0.225792 C77.42736,0.225792 79.22728,1.236774 79.22728,2.48388 L79.22728,39.51612 C79.22728,40.755792 77.44872,41.762154 75.2072,41.774208 Z" id="base" fill="#FFFFFF"></path>
+                    </g>
+                    <g id="Group-Copy" transform="translate(60.000000, 55.000000)">
+                        <g id="Group" transform="translate(0.000000, 11.000000)">
+                            <rect id="Rectangle" fill="#879199" x="0" y="0" width="16.21025" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#FF9D61" x="17.2906875" y="0" width="12.9689375" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#497EFF" x="31.3400625" y="0" width="11.8872708" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#F1777A" x="44.309" y="0" width="5.61975" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#EDEAFA" x="51.0091875" y="0" width="7.56429167" height="3.043"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#879199" x="0" y="0" width="17" height="3"></rect>
+                        <rect id="Rectangle" fill="#FF9D61" x="18" y="0" width="12" height="3"></rect>
+                        <rect id="Rectangle" fill="#497EFF" x="31" y="0" width="11" height="3"></rect>
+                        <rect id="Rectangle" fill="#919BBD" x="45" y="0" width="4" height="3"></rect>
+                        <rect id="Rectangle" fill="#EDEAFA" x="50" y="0" width="9" height="3"></rect>
+                        <g id="Group" transform="translate(0.000000, 5.000000)">
+                            <rect id="Rectangle" fill="#879199" x="0" y="0" width="16.16622" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#FF9D61" x="17.24348" y="0" width="12.93322" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#497EFF" x="31.25396" y="0" width="11.85474" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#ECA570" x="44.18718" y="0" width="4.95808" height="3.043"></rect>
+                            <rect id="Rectangle" fill="#EDEAFA" x="50.22252" y="0" width="10.77748" height="3.043"></rect>
+                        </g>
+                    </g>
+                    <g id="clock" transform="translate(106.000000, 68.000000)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Ellipse-4" fill="url(#radialGradient-5)" xlink:href="#path-6"></use>
+                        <polygon id="Shape-8" fill="#FFFFFF" mask="url(#mask-7)" points="32.003152 10.359539 32.003152 32.954033 42.539744 43.293947"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
