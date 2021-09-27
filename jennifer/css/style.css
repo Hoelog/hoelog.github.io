@@ -360,7 +360,8 @@ body {
 }
 
 .footer-button {
-    width: 371px;
+    display: flex;
+    width: 400px;
     margin: 0 auto;
 }
 
